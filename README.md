@@ -2,6 +2,8 @@
 
 ## Identifying High-Priority ZIP Codes for Healthcare Expansion in Los Angeles County
 
+![LA Community Health Expansion Dashboard](images/dashboard_overview.png)
+
 ### Live Dashboard
 https://lahealthexpansionindex.streamlit.app/
 
@@ -153,9 +155,6 @@ The interactive Streamlit dashboard allows users to:
 ---
 
 ## Dashboard Preview
-
-### LA County Expansion Priority Map
-![Dashboard Overview](images/dashboard_overview.png)
 
 ### Healthcare Access Gap Analysis
 ![Healthcare Access Gap](images/healthcare_access_gap.png)

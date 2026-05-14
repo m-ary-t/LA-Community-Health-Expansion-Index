@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large model/data artifacts (optional)
+*.pkl
+*.joblib
+*.h5

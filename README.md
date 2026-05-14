@@ -45,6 +45,15 @@ The goals of this project were to:
 
 ---
 
+## Key Results
+
+- Identified underserved Los Angeles ZIP codes with elevated healthcare accessibility gaps
+- Built a data-driven healthcare expansion prioritization framework
+- Developed an interactive Streamlit dashboard for healthcare decision support
+- Applied Ridge Regression and public health indicators to improve prioritization objectivity
+
+---
+
 ## Data Sources
 
 This project integrates publicly available datasets from multiple healthcare and socioeconomic sources.

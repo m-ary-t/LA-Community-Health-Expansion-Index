@@ -9,6 +9,13 @@ https://lahealthexpansionindex.streamlit.app/
 
 ---
 
+# Presentation Slides
+
+Project presentation:
+[View Presentation Slides](LA_Community_Health_Expansion_Index_Presentation.pdf)
+
+---
+
 ## Project Overview
 
 The LA Community Health Expansion Index is a public health analytics project designed to identify underserved Los Angeles County ZIP codes where new community health centers may be most needed.

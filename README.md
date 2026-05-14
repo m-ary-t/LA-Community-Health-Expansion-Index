@@ -19,6 +19,19 @@ The project was developed using Python, Streamlit, machine learning techniques, 
 
 ---
 
+## Skills Demonstrated
+
+- Public Health Analytics
+- Healthcare Access Analysis
+- Geospatial Visualization
+- Streamlit Dashboard Development
+- Composite Index Modeling
+- Ridge Regression
+- Data Cleaning & Integration
+- Decision-Support Analytics
+
+---
+
 ## Business Problem
 
 Healthcare resources are often distributed unevenly across communities, leaving some populations with limited access to preventative and primary healthcare services.
@@ -84,7 +97,7 @@ Used for:
 
 ---
 
-## Repository Data Notice
+## Repository Data 
 
 Due to repository size limitations, the full raw datasets used during development are not stored in this repository.
 
@@ -206,6 +219,78 @@ The interactive Streamlit dashboard allows users to:
 - Geospatial ZIP code mapping
 - Healthcare accessibility analysis
 - Composite index modeling
+
+---
+
+# Repository Structure
+
+```text
+LA-Community-Health-Expansion-Index/
+
+├── images/
+│     ├── baseline_vs_tuned_rmse.png
+│     ├── healthcare_access_gap.png
+│     ├── poverty_expansion_priority.png
+│     ├── priority_rankings_table.png
+│     ├── top_priority_zipcodes.png
+
+├── notebooks/
+│     ├── 01_weighted_composite_index_model.ipynb
+│     ├── 02_ridge_regression_health_index.ipynb
+
+├── streamlit_app/
+│     ├── healthcare_expansion_dashboard.py
+
+│── .gitignore
+│── LA Community Health Expansion Index Presentation.pdf
+│── LICENSE
+│── README.md
+│── requirements.txt
+
+```
+---
+
+# How to Run the Project
+
+## Clone Repository
+
+```bash
+git clone https://github.com/m-ary-t/LA-Community-Health-Expansion-Index.git
+```
+
+---
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Launch Streamlit Dashboard
+
+```bash
+streamlit run streamlit_app/app.py
+```
+
+---
+
+## Open in Browser
+
+After launching Streamlit, open the local URL shown in the terminal (typically):
+
+```text
+http://localhost:8501
+```
+
+---
+
+## Alternative: View Deployed Dashboard
+
+Live Streamlit application:
+
+https://lahealthexpansionindex.streamlit.app/
 
 ---
 
